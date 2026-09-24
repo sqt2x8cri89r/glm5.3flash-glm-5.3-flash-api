@@ -2,7 +2,7 @@
 
 > **input $0.06; cached_input $0.012; output $0.2** — flat per-unit billing through the OpenAI-compatible APIMart gateway, $1 minimum top-up.
 
-**[Live pricing](https://apimart.ai/pricing)** · **[Get an API key](https://apimart.ai/keys)**
+**[Live pricing](https://go.apimart.ai/k-0b77e6)** · **[Get an API key](https://go.apimart.ai/k-9554ca)**
 
 Everything here refers to **glm-5.3-flash** — also written **glm5.3flash** or **glm 5.3 flash**.
 
